@@ -7,11 +7,7 @@ import com.badlogic.gdx.math.MathUtils;
 import com.badlogic.gdx.math.Vector2;
 import com.badlogic.gdx.utils.Logger;
 
-/**
- * Controller for debugging {@link OrthographicCamera}.
- *
- * @author goran on 22/08/2016.
- */
+
 public class DebugCameraController {
 
     // == constants ==

@@ -13,4 +13,12 @@ public final class GameConfig {
 
     public static final float WORLD_CENTER_X = WORLD_WIDTH /2f;
     public static final float WORLD_CENTER_y = WORLD_HEIGHT /2f;
+
+    public static final float PADDLE_WIDTH = 3f;
+    public static final float PADDLE_HEIGHT = 1f;
+
+    public static final float PADDLE_START_X = (WORLD_WIDTH -PADDLE_WIDTH) /2f;
+    public static final float PADDLE_START_Y = 1;
+
+ private GameConfig(){}
 }
